@@ -6,4 +6,4 @@ This article examines how the frequency and sentiment of AI mentions in earnings
 
 The article is structured into three sections: setting up the dataset, conducting exploratory analysis, and building thematic portfolios.
 
-The full article can be found [here](https://developers.lseg.com/en/article-catalog/article/exploring-AI-mentions-in-earnings-calls-and-building-thematic-portfolios)
+The full article can be found [here](https://developers.lseg.com/en/article-catalog/article/cva-for-otc-derivatives-portfolio)
